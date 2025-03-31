@@ -10,7 +10,6 @@
 ✅ **Tìm kiếm nhanh thông tin xe vi phạm** bằng biển số xe.  
 ✅ **ChatBot AI** hỗ trợ hỏi đáp tức thì về Luật giao thông Việt Nam.  
 ✅ **Giao diện trực quan**, dễ sử dụng trên cả desktop và mobile.  
-✅ **Tích hợp API mở rộng**, dễ dàng kết nối với các hệ thống khác.  
 
 ---
 
